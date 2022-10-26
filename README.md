@@ -38,12 +38,14 @@ Semester-long assignment for programming 2, applied computer science at the HTW 
 
 ## Commands
 
+should always be converted to lower case
+
 - ### preparation:
 
-  - `create game` (only for the host)
-  - `connect to <ip>` (only for the second player) **! maye not be necessary !**
-  - `set name <name>`
-  - `place ships`
+  - `create game` (only for the host) **! maye not be necessary !**
+  - `connect`
+  - `<name>`
+  - `ships`
   - - `place <ship name>`
   - - - `at (<x/y>) (<x/y>)`
   - `delete ship at start cords (<x/y>)`
